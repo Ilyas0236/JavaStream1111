@@ -1,7 +1,7 @@
 
 <h1>Project Java 4IIR</h1>
 <h3>Ilyas Ait maina </h3>
-<img width="851" height="597" alt="10-class-diagram-for-hotel-management-system" src="https://github.com/user-attachments/assets/c121e2cb-b48a-40f0-8812-dbffca3effcf" />
+<img width="851" height="597" alt="10-class-diagram-for-hotel-management-system" src= />
 
 <h2>Description</h2>
 
