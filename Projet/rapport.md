@@ -5,7 +5,7 @@
     width="907" 
     height="549" 
     alt="10-class-diagram-for-hotel-management-system" 
-    src="" 
+    src="https://github.com/Ilyas0236/JavaStream1111/blob/main/Projet/LOM_base_schema.svg.png" 
 />
 
 
